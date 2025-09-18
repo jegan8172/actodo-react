@@ -1,72 +1,60 @@
-<!-- Banner Image / Cover -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="path/to/your/banner.gif" alt="actodo-react banner" width="800"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=✅+A+Beautiful+React+ToDo+App;⚡+Built+with+TailwindCSS+%26+React;🚀+Fast+%2C+Clean+%2C+Responsive" alt="Animated header" />
+</p>  
 
-<h1 align="center">📝 actodo-react</h1>
+<h1 align="center">📝 actodo-react</h1>  
 
 <p align="center">
-  <a href="https://actodo-react-theta-five.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-🌐-00BFFF" alt="Live Demo Badge"/>
-  </a>
-  <a href="https://github.com/jegan8172/actodo-react/actions" target="_blank">
-    <img src="https://img.shields.io/github/actions/workflow/status/jegan8172/actodo-react/main.yml?label=build&logo=github" alt="Build Status"/>
-  </a>
-  <a href="https://img.shields.io/github/issues/jegan8172/actodo-react" target="_blank">
-    <img src="https://img.shields.io/github/issues/jegan8172/actodo-react" alt="Open Issues"/>
-  </a>
-  <a href="https://img.shields.io/github/license/jegan8172/actodo-react" target="_blank">
-    <img src="https://img.shields.io/github/license/jegan8172/actodo-react" alt="License"/>
-  </a>
-</p>
+  <a href="https://actodo-react-theta-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C4FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/jegan8172/actodo-react/stargazers"><img src="https://img.shields.io/github/stars/jegan8172/actodo-react?style=for-the-badge&color=yellow" /></a>
+  <a href="https://github.com/jegan8172/actodo-react/network/members"><img src="https://img.shields.io/github/forks/jegan8172/actodo-react?style=for-the-badge&color=orange" /></a>
+  <a href="https://github.com/jegan8172/actodo-react/issues"><img src="https://img.shields.io/github/issues/jegan8172/actodo-react?style=for-the-badge&color=red" /></a>
+  <a href="https://github.com/jegan8172/actodo-react/blob/main/LICENSE"><img src="https://img.shields.io/github/license/jegan8172/actodo-react?style=for-the-badge&color=brightgreen" /></a>
+</p>  
 
 ---
 
-## 🚀 About
+## ✨ Features  
 
-A React-based ToDo app with clean UI, built using Tailwind CSS & React. Manage tasks, mark done/undone, add / delete etc.
-
----
-
-## 🛠️ Features
-
-- Create, edit, delete tasks.  
-- Mark tasks as completed / undone.  
-- Responsive design.  
-- Sweet animations (e.g. fade-in, hover effects).  
-- Live demo deployed.
+- 🎯 **Add, edit, delete tasks**  
+- ✅ **Mark tasks as complete / incomplete**  
+- 📱 **Fully responsive**  
+- 🎨 **Modern UI with TailwindCSS**  
+- ⚡ **Deployed on Vercel**  
 
 ---
 
-## 📸 Screenshots / Demo
+## 🎥 Live Demo (Animated Preview)  
 
-<!-- Put animated GIF here showing app in action -->
 <p align="center">
-  <img src="path/to/demo-task-creation.gif" alt="Task creation demo" width="600"/>
-</p>
+  <!-- Replace with your own GIF demo -->
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="700" alt="Demo Animation" />
+</p>  
 
-More visuals:
-
-| Feature | Screenshot |
-|---|---|
-| Add task | ![Add task](path/to/add-task.png) |
-| Mark completed | ![Completed](path/to/completed.png) |
+👉 Try it live here: [🌐 Live Demo](https://actodo-react-theta-five.vercel.app)  
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack  
 
-- **React**  
-- **Tailwind CSS**  
-- **PostCSS**  
-- **Vercel** (for deployment)  
+| Frontend | Styling | Deployment |
+|----------|----------|------------|
+| ⚛️ React | 🎨 Tailwind CSS | ▲ Vercel |  
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation  
 
 ```bash
+# Clone this repository
 git clone https://github.com/jegan8172/actodo-react.git
+
+# Navigate to project folder
 cd actodo-react
+
+# Install dependencies
 npm install
+
+# Start development server
 npm run dev
