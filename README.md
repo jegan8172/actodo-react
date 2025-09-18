@@ -37,14 +37,9 @@
 
 ---
 
-## 🎥 Live Demo (Animated Preview)  
-
-<p align="center">
-  <!-- Replace this GIF with your own demo -->
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="700" alt="Demo Animation" />
-</p>  
-
-👉 Try it live here: [🌐 actodo-react Demo](https://actodo-react-theta-five.vercel.app)  
+## 🎥 Live Demo
+ 
+ 👉 Try it live here: [🌐 actodo-react Demo](https://actodo-react-theta-five.vercel.app)  
 
 ---
 
@@ -74,3 +69,5 @@ npm install
 
 # Start development server
 npm run dev
+
+<!-- Footer with wave animation --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=⭐+Star+this+repo+if+you+like+it!+⭐&fontAlign=50&fontAlignY=40" alt="footer"> </p> ```
