@@ -55,19 +55,5 @@
 
 ---
 
-## ⚙️ Installation  
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=⭐+Star+this+repo+if+you+like+it!+⭐&fontAlign=50&fontAlignY=40" alt="footer"> </p> ```
 
-```bash
-# Clone this repository
-git clone https://github.com/jegan8172/actodo-react.git
-
-# Navigate to project folder
-cd actodo-react
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-<!-- Footer with wave animation --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=⭐+Star+this+repo+if+you+like+it!+⭐&fontAlign=50&fontAlignY=40" alt="footer"> </p> ```
