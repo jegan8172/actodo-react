@@ -25,12 +25,7 @@
 
 ---
 
-## 🎥 Live Demo (Animated Preview)  
-
-<p align="center">
-  <!-- Replace with your own GIF demo -->
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="700" alt="Demo Animation" />
-</p>  
+## 🎥 Live Demo  
 
 👉 Try it live here: [🌐 Live Demo](https://actodo-react-theta-five.vercel.app)  
 
