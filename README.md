@@ -25,14 +25,13 @@
 
 ---
 
-## 🎥 Live Demo  
+## 🚀 Live Demo  
 
 <p align="center">
-  <!-- Replace with your own app demo GIF -->
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="700" alt="App Demo"/>
+  <a href="https://actodo-react-theta-five.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Try%20Now-00C4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
 </p>
-
-🔗 Try it live: [**actodo-react Demo**](https://actodo-react-theta-five.vercel.app)  
 
 ---
 
@@ -53,4 +52,6 @@ git clone https://github.com/jegan8172/actodo-react.git
 
 ```
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A5ACD,100:00C4FF&text=⭐+If+you+like+this+project,+consider+starring+it!+⭐&fontAlign=50&fontAlignY=40" alt="footer"/> </p>
+<!-- Elegant Footer --> 
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A5ACD,100:00C4FF&text=⭐+If+you+like+this+project,+consider+starring+it!+⭐&fontAlign=50&fontAlignY=40" alt="footer"/> </p> 
