@@ -1,17 +1,29 @@
-<!-- Animated Header -->
+<!-- Hero Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=✅+A+Beautiful+React+ToDo+App;⚡+Built+with+TailwindCSS+%26+React;🚀+Fast+%2C+Clean+%2C+Responsive" alt="Animated header" />
-</p>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=📝+actodo-react&fontSize=50&fontAlign=50&fontAlignY=40&desc=A+Modern+ToDo+App+with+React+%26+TailwindCSS&descAlign=50&descAlignY=70" alt="actodo-react banner">
+</p>
 
-<h1 align="center">📝 actodo-react</h1>  
+<h2 align="center">🚀 Fast · 🎨 Beautiful · 📱 Responsive</h2>  
 
 <p align="center">
-  <a href="https://actodo-react-theta-five.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00C4FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/jegan8172/actodo-react/stargazers"><img src="https://img.shields.io/github/stars/jegan8172/actodo-react?style=for-the-badge&color=yellow" /></a>
-  <a href="https://github.com/jegan8172/actodo-react/network/members"><img src="https://img.shields.io/github/forks/jegan8172/actodo-react?style=for-the-badge&color=orange" /></a>
-  <a href="https://github.com/jegan8172/actodo-react/issues"><img src="https://img.shields.io/github/issues/jegan8172/actodo-react?style=for-the-badge&color=red" /></a>
+  <a href="https://actodo-react-theta-five.vercel.app"><img src="https://img.shields.io/badge/🌐 Live Demo-00C4FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/jegan8172/actodo-react/stargazers"><img src="https://img.shields.io/github/stars/jegan8172/actodo-react?style=for-the-badge&logo=github&color=yellow" /></a>
+  <a href="https://github.com/jegan8172/actodo-react/network/members"><img src="https://img.shields.io/github/forks/jegan8172/actodo-react?style=for-the-badge&logo=github&color=orange" /></a>
+  <a href="https://github.com/jegan8172/actodo-react/issues"><img src="https://img.shields.io/github/issues/jegan8172/actodo-react?style=for-the-badge&logo=github&color=red" /></a>
   <a href="https://github.com/jegan8172/actodo-react/blob/main/LICENSE"><img src="https://img.shields.io/github/license/jegan8172/actodo-react?style=for-the-badge&color=brightgreen" /></a>
-</p>  
+</p>
+
+---
+
+## 📚 Table of Contents  
+
+- [✨ Features](#-features)  
+- [🎥 Live Demo](#-live-demo-animated-preview)  
+- [🛠 Tech Stack](#-tech-stack)  
+- [⚙️ Installation](#️-installation)  
+- [📸 Screenshots](#-screenshots)  
+- [🤝 Contributing](#-contributing)  
+- [📜 License](#-license)  
 
 ---
 
@@ -25,13 +37,22 @@
 
 ---
 
-## 🎥 Live Demo  
+## 🎥 Live Demo (Animated Preview)  
 
-👉 Try it live here: [🌐 Live Demo](https://actodo-react-theta-five.vercel.app)  
+<p align="center">
+  <!-- Replace this GIF with your own demo -->
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="700" alt="Demo Animation" />
+</p>  
+
+👉 Try it live here: [🌐 actodo-react Demo](https://actodo-react-theta-five.vercel.app)  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vercel,git,github,vscode" />
+</p>  
 
 | Frontend | Styling | Deployment |
 |----------|----------|------------|
